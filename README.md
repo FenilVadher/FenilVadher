@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Fenil Vadher 👋
 
-<!--
-**FenilVadher/FenilVadher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with Me
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fenilvadher)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fenil.vadher535@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fenilvadher.exe)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 A Quote:
+<div align="center"> 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+## 🔔 Vsistor Count
+![Visitor Count](https://profile-counter.glitch.me/FenilVadher/count.svg)
