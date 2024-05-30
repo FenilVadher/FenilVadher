@@ -57,3 +57,11 @@ Let's connect and create something awesome together! 🚀
 
 ## 🔔 Vsistor Count
 ![Visitor Count](https://profile-counter.glitch.me/FenilVadher/count.svg)
+
+</p>
+
+<p align = "center">
+  
+[![Fenil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FenilVadher&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/FenilVadher)
+  
+</p>
