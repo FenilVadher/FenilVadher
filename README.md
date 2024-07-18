@@ -43,10 +43,10 @@ Let's connect and create something awesome together! 🚀
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=FenilVadher&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FenilVadher&show_icons=true&theme=vision-friendly-dark" width="600" height="200" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenilVadher&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" width="400" height="200" alt="Top Languages">
-</div>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=FenilVadher&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenilVadher&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
  
 ## 💡 A Quote:
